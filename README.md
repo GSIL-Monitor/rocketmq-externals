@@ -1,3 +1,4 @@
+
 # RocketMQ Externals
 
 There are many Apache RocketMQ external projects contributed and maintained by community.
@@ -36,3 +37,7 @@ We are always very happy to have contributions, whether for trivial cleanups or 
 Nor is code the only way to contribute to the project. We strongly value documentation, integration with other project, and gladly accept improvements for these aspects.
 
 More info please refer to [How To Contribute](http://rocketmq.apache.org/docs/how-to-contribute/).
+
+# rocketmq-externals
+rocketmq插件
+已对netty、adminInstance修改
